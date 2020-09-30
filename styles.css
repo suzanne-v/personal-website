@@ -5,3 +5,15 @@ h1 {
     border: 1px solid salmon;
     border-radius: 12px;
 }
+ul {
+    list-style-type: none; 
+    display: flex;
+}
+li {
+    margin: 0.5rem 2rem;
+
+}
+nav {
+    display: flex;
+    justify-content: center;
+}
